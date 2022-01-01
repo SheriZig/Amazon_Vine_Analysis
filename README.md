@@ -8,7 +8,9 @@ The ETL (Extract, Transform and Load) process was conducted on the selected data
 
 After an analysis of the data, it was determined that there were only two reviews that were conducted by paid Amazon Vine members. Therefore, only the unpaid reviews were considered. 
 
-Note that there are
+Note that there are 3,105,515 reviews in the dataset but only two of them are paid Vine reviews
+
+![image](https://user-images.githubusercontent.com/88912539/147859624-72841b5a-be7b-43f2-a727-16bfc1e102b6.png)
 
 
 
