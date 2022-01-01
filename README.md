@@ -17,3 +17,4 @@ Neither of the paid Vine reviews met the threshold of over 20 reviews.
 
 ![image](https://user-images.githubusercontent.com/88912539/147859682-baab8a71-2654-4990-afd2-5189cb8f193e.png)
 
+Considering only the non-paid reviews, there were a total of 378,638 reviews with 227,734 being Five-Start reviews. The result is that 60.14% of all the non-paid reviews received a Five-Star rating. 
