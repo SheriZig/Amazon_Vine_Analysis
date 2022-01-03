@@ -23,3 +23,5 @@ Considering only the non-paid reviews, there were a total of 378,638 reviews wit
 
 ## Summary 
 Due to the lack of paid Vine member reviews, it was not possible to conduct a study to determine if there was bias between the paid and non-paid reviews. When additional paid Vine reviews are generated a study of this type would be benificial. 
+
+In addition, I would also recommend conducting an analysis on the verified purchases to determine if there is a bias between the reviewers who purchased the book compared to those who did not. Do they rate higher/lower/same as those who did not purchase the book. 
